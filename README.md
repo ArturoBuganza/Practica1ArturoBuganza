@@ -100,4 +100,8 @@ in forked repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+One of the problems i ran into was the usage of libraries, i have always strugled with this kind of situations, but i think i managed to do it correctly this time and was one of the longest steps.
+The conection and asembly of the schematic was very time consuming, but it wasnt hard, it was just a matter of following the image and replicate it.
+I do found this first practice challenging aswell as very informative, i felt the improvement as i got better circuit by circuit. 
+Using this Github site is also a chanllenge to me since its my first time, but i feel like im learning new tools and that is what matters.
+Looking forward to ensamble this in future practices, and maybe soon enough practicing in real life.

@@ -38,7 +38,7 @@ the KiCad Developers Team.
 
 ## Results
 
-![Fig. 1](./kicad0.png)
+![Fig. 1](./ESQUEMATICO_P1_ARTURO.png)
 
 ### Follow the next 'Project Configuration' Steps
 
@@ -96,7 +96,7 @@ in forked repository.
 
 ### Demonstration
 
-![Fig. 1](./kicad0.png)
+![Fig. 1](./ESQUEMATICO_P1_ARTURO.png)
 
 ## Conclusion
 

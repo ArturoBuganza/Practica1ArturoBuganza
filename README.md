@@ -38,7 +38,7 @@ the KiCad Developers Team.
 
 ## Results
 
-In this section, you must report the outcomes of the laboratory activities.
+![Fig. 1](./kicad0.png)
 
 ### Follow the next 'Project Configuration' Steps
 
@@ -76,10 +76,7 @@ In this section, you must report the outcomes of the laboratory activities.
 ### Create the Schematic of our PCB design
 
 24. Now, it is time to assemble the schematic design needed to make the PCB of this manual, as shown in this
-    [file](./Minimum_card_system.pdf). Table I indicates in which library is included each component.
-    
-    ![Table1.1](./table1.1.png)
-    ![Table1.2](./table1.2.png)
+
 25. All components must have a unique identifier. In fact, many of the added components are named after ‘R?’ or ‘J?.’ To assign an ID automatically, you can click on the icon ‘Annote schematic symbols’ .
 26. In the window ‘Annotate Schematic’ select: Use the entire schematic and click on the ‘Annotate’ button. Click ‘OK’ in the confirmation message that appears on the screen, then click on ‘Close.’ You will see how all the ‘?’ have been replaced by numbers. This identifier is unique.
 
